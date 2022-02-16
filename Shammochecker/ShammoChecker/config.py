@@ -1,0 +1,1 @@
+WORD_LIMIT = int(15)
